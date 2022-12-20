@@ -11,13 +11,13 @@ E:\Unity\Editor\2021.3.11f1\Editor\Unity.exe
 -name
 AssetImportWorker13
 -projectPath
-E:/Unity/Project/cheers
+E:/Programs/Git files/again/dchill/cheers
 -logFile
 Logs/AssetImportWorker13.log
 -srvPort
-53316
-Successfully changed project path to: E:/Unity/Project/cheers
-E:/Unity/Project/cheers
+59477
+Successfully changed project path to: E:/Programs/Git files/again/dchill/cheers
+E:/Programs/Git files/again/dchill/cheers
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,15 +47,3 @@ E:/Unity/Project/cheers
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 5513.69 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
-[Subsystems] Discovering subsystems at path E:/Unity/Editor/2021.3.11f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/Unity/Project/cheers/Assets
-GfxDevice: creating device client; threaded=0; jobified=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) HD Graphics (ID=0x22b1)
-    Vendor:   Intel
-    VRAM:     1992 MB
-    Driver:   20.19.15.4352

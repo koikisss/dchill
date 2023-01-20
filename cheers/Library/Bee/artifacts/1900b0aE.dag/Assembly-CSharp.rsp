@@ -365,6 +365,7 @@
 "Assets/SampleScenes/Scripts/ParticleSceneControls.cs"
 "Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs"
 "Assets/SampleScenes/Scripts/SlowMoButton.cs"
+"Assets/Scripts/LoadScene.cs"
 "Assets/Scripts/UI/ExitButton.cs"
 "Assets/Scripts/UI/StartButton.cs"
 "Assets/SimpleCollectiblesPack/SimpleCollectibleScript.cs"
